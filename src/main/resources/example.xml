@@ -1,0 +1,10 @@
+<employees>
+    <employee>
+        <name>John Doe</name>
+        <position>Software Engineer</position>
+    </employee>
+    <employee>
+        <name>Jane Smith</name>
+        <position>Project Manager</position>
+    </employee>
+</employees>
