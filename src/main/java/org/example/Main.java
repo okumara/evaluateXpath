@@ -16,7 +16,7 @@ public class Main {
             // Load the XML file into a Document
             DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
             DocumentBuilder builder = factory.newDocumentBuilder();
-            Document doc = builder.parse("./src/main/resources/example.xml");
+            Document doc = builder.parse("./src/main/resources/RES_01.xml");
 
             // Create an XPath instance
             XPathFactory xPathFactory = XPathFactory.newInstance();
